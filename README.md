@@ -1,4 +1,4 @@
-# Case_Study_2
+# Case_Study
 
 This is a basic case study I covered as a part of the Qlik Business Analyst Virtual Internship. 
 On studying the dataset of an Airline company regarding their flight status and frequency of delays depending on the various factors, I came to certain conclusions. I covered the entire analysis with the help of Python programming language and the summary of analysis is attached here along with the project.
